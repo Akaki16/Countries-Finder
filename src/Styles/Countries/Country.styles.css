@@ -1,0 +1,37 @@
+.country-card {
+    width: 300px;
+    padding: 10px;
+    height: auto;
+    background: #2b333d;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 20px;
+    border-radius: 4px;
+}
+
+.country-card img {
+    width: 100%;
+    height: 200px;
+}
+
+.country-card h1 {
+    margin: 10px;
+    color: #fff;
+}
+
+.country-card h2 {
+    margin: 10px;
+    color: #fff;
+    font-weight: normal;
+}
+
+.country-card h3 {
+    margin: 10px;
+    color: #fff;
+    font-weight: normal;
+}
+
+.country-card h4 {
+    margin: 10px;
+    color: #fff;
+    font-weight: normal;
+}

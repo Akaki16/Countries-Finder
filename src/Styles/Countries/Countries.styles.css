@@ -1,0 +1,10 @@
+.countries {
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.countries a {
+    text-decoration: none;
+}

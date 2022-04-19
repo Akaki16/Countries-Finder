@@ -1,0 +1,21 @@
+.header {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.header h1 {
+    color: #333;
+    font-weight: bold;
+}
+
+.header button {
+    outline: none;
+    border: none;
+    width: 100px;
+    border: 2px solid #333;
+    background-color: transparent;
+    cursor: pointer;
+    transition: 0.3s;
+}
