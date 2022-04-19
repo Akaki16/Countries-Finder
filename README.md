@@ -31,4 +31,4 @@ Open terminal in your operating system
 
 4) Type `npm install` to install the required dependecies
 
-5) Type: `npm start` to start the project on port https://localhost:3000
+5) Type: `npm start` and open the project on port https://localhost:3000
